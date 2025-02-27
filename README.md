@@ -1,11 +1,11 @@
-# BTR (Better Than Retail)
+# BTR (Birth Time Rectification)
 
-A web application for comparing retail prices and finding the best deals.
+A web application for rectifying birth times using astrological parameters. This tool helps astrologers and enthusiasts accurately determine birth times by considering various factors such as tatwas, moon star lords, and lagna types.
 
 ## Project Structure
 
 - `btr-website/` - Main project directory
-  - `frontend/` - Vue.js frontend application
+  - `frontend/` - React frontend application
   - `backend/` - Python Flask backend application
 
 ## Setup Instructions
