@@ -1,0 +1,14 @@
+{
+    "Ashwini-Movable": {
+        "Male": ["Prithvi", "Tejo", "Akash"],
+        "Female": ["Jala", "Vayu"]
+    },
+    "Bharani-Fixed": {
+        "Male": ["Prithvi", "Tejo", "Akash"],
+        "Female": ["Jala", "Vayu"]
+    },
+    "Krittika-Dual": {
+        "Male": ["Prithvi", "Tejo", "Akash"],
+        "Female": ["Jala", "Vayu"]
+    }
+}
